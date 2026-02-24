@@ -44,7 +44,5 @@ public class Desafio01 {
         System.out.println("Missão: " + missao2);
         System.out.println("Rank da missão: " + dificuldade2);
         System.out.println("Status da Missão: " + statusDaMissao2);
-
-
     }
 }
